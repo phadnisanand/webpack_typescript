@@ -1,0 +1,28 @@
+{
+  "name": "typescipt_practise",
+  "version": "1.0.0",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode development",
+    "start": "webpack-dev-server --mode development",
+    "watch": "webpack --watch --mode development"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "mini-css-extract-plugin": "^2.9.1",
+    "sass": "^1.80.5",
+    "ts-loader": "^9.5.1",
+    "typescript": "^5.6.3",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "css-loader": "^7.1.2",
+    "html-webpack-plugin": "^5.6.3",
+    "http-server": "^14.1.1",
+    "sass-loader": "^16.0.2",
+    "webpack-dev-server": "^5.1.0"
+  }
+}

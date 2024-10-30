@@ -1,0 +1,26 @@
+/*!*************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js!./node_modules/sass-loader/dist/cjs.js!./src/scss/main.scss ***!
+  \*************************************************************************************************************/
+.container {
+  height: 100vh;
+  background-color: #E7E3EB;
+}
+.container .header {
+  padding: 15px 20px;
+  background-color: #6200EE;
+}
+.container .header h1 {
+  color: #FFF;
+}
+.container .react-logo {
+  background: url(e93308a5c45c55f33e5c.png) no-repeat center;
+  height: 200px;
+  width: 200px;
+  background-size: contain;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/*# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoibWFpbi5jc3MiLCJtYXBwaW5ncyI6Ijs7O0FBQUE7RUFDSTtFQUNBO0FBQ0o7QUFBSTtFQUNJO0VBQ0E7QUFFUjtBQURRO0VBQ0k7QUFHWjtBQUFFO0VBQ007RUFDQTtFQUNBO0VBQ0E7RUFDQTtFQUNBO0VBQ0E7RUFDQTtBQUVSLEMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly90eXBlc2NpcHRfcHJhY3Rpc2UvLi9zcmMvc2Nzcy9tYWluLnNjc3MiXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=*/
